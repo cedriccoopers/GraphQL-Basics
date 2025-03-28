@@ -2,9 +2,9 @@
 Introduction to GraphQL
 
 ## Three type of operations
-### Retrieve Data
-### Write / Change Data
-### Subscribe to Changes in Data
+* Retrieve Data
+* Write / Change Data
+* Subscribe to Changes in Data
 
 ## Operations are build on the schema
 ```
